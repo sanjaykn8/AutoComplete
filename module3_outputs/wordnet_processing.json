@@ -1,0 +1,25 @@
+[
+  {
+    "synset_name": "processing.n.01",
+    "definition": "preparing or putting through a prescribed procedure",
+    "examples": [
+      "the processing of newly arrived immigrants",
+      "the processing of ore to obtain minerals"
+    ],
+    "lemmas": [
+      "processing"
+    ],
+    "antonyms": [],
+    "hypernyms": [
+      "process.n.06"
+    ],
+    "hyponyms": [
+      "refining.n.01",
+      "data_processing.n.01",
+      "blowing.n.01",
+      "vulcanization.n.01",
+      "development.n.08"
+    ],
+    "meronyms": []
+  }
+]
