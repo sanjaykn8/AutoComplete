@@ -1,4 +1,3 @@
-corpus,total_tokens,vocab_size,type_token_ratio,top_word_1
-project_gutenberg,2621613,42339,0.016149980946844555,","
-brown_corpus,1161192,49815,0.04289988219002542,the
-reuters,1720901,31078,0.01805914459925353,.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15d967b176c337e7e16b65a903662acce7a36de0d0134a1477f35b56a3e40ca5
+size 215
