@@ -1,0 +1,4 @@
+text,prediction,negative_prob,positive_prob
+I really like this product.,positive,0.061971522867679596,0.9380285143852234
+This is the worst experience I have ever had.,negative,0.8490504026412964,0.1509496122598648
+"The movie was okay, nothing special.",positive,0.3037932217121124,0.6962067484855652

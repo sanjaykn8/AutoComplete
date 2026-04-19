@@ -1,2 +1,5 @@
 *.npy
 *.model
+checkpoint-125/
+node_modules/
+*.bat
