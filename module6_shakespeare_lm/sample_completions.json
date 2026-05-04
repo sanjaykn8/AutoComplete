@@ -1,85 +1,85 @@
 [
   {
-    "prompt": "So shaken as we are, so wan with care",
-    "completion": "So shaken as we are, so wan with care ",
+    "prompt": "So shaken as we are, so ",
+    "completion": "So shaken as we are, so ",
     "top_suggestions": [
       {
-        "token": ",",
-        "probability": 0.21044930815696716
-      },
-      {
-        "token": ".",
-        "probability": 0.14398938417434692
+        "token": "<|endoftext|>",
+        "probability": 0.9999915361404419
       },
       {
         "token": "",
-        "probability": 0.11633381992578506
+        "probability": 2.3260897705768002e-06
       },
       {
-        "token": ":",
-        "probability": 0.07161077857017517
+        "token": "ips",
+        "probability": 1.572326823406911e-06
       },
       {
-        "token": "and",
-        "probability": 0.06003492698073387
+        "token": "________",
+        "probability": 1.1018562418030342e-06
+      },
+      {
+        "token": "________________________________",
+        "probability": 4.417256604938302e-07
       }
     ]
   },
   {
-    "prompt": "The edge of war like an ill-sheathed knife",
-    "completion": "The edge of war like an ill-sheathed knife, ",
+    "prompt": "The edge of war like an ",
+    "completion": "The edge of war like an ",
     "top_suggestions": [
       {
-        "token": ",",
-        "probability": 0.42485377192497253
+        "token": "<|endoftext|>",
+        "probability": 0.9997747540473938
+      },
+      {
+        "token": "urn",
+        "probability": 5.855116978636943e-05
       },
       {
         "token": "",
-        "probability": 0.12411442399024963
+        "probability": 4.3536772864172235e-05
       },
       {
-        "token": ".",
-        "probability": 0.1004817858338356
+        "token": "urch",
+        "probability": 2.7003736249753274e-05
       },
       {
-        "token": "?",
-        "probability": 0.05589752271771431
-      },
-      {
-        "token": "!",
-        "probability": 0.033501673489809036
+        "token": "ime",
+        "probability": 7.858775461500045e-06
       }
     ]
   },
   {
-    "prompt": "Cousin, on Wednesday next our council we",
-    "completion": "Cousin, on Wednesday next our council we have ",
+    "prompt": "Cousin, on Wednesday next our ",
+    "completion": "Cousin, on Wednesday next our ",
     "top_suggestions": [
       {
-        "token": "will",
-        "probability": 0.14069660007953644
+        "token": "<|endoftext|>",
+        "probability": 0.9999364614486694
       },
       {
-        "token": "shall",
-        "probability": 0.11898387223482132
+        "token": "",
+        "probability": 1.914577114803251e-05
       },
       {
-        "token": "'ll",
-        "probability": 0.09163688123226166
+        "token": "________",
+        "probability": 4.700364115706179e-06
       },
       {
-        "token": "have",
-        "probability": 0.052006788551807404
+        "token": "ips",
+        "probability": 4.535115294856951e-06
       },
       {
-        "token": "are",
-        "probability": 0.038616474717855453
+        "token": "urn",
+        "probability": 3.616178219090216e-06
       }
     ]
   },
   {
     "prompt": "A gallant prize",
-    "completion": "A gallant prize: I must have it for thee, ",
+    "completion": "A gallant prize! ",
     "top_suggestions": [
       {
         "token": ",",
@@ -104,28 +104,28 @@
     ]
   },
   {
-    "prompt": "And furious close of civil butchery",
-    "completion": "And furious close of civil butchery ",
+    "prompt": "And furious close of civil",
+    "completion": "And furious close of civil ",
     "top_suggestions": [
       {
+        "token": "war",
+        "probability": 0.35841891169548035
+      },
+      {
+        "token": "strife",
+        "probability": 0.1243465468287468
+      },
+      {
+        "token": "wars",
+        "probability": 0.07442213594913483
+      },
+      {
+        "token": "and",
+        "probability": 0.020655326545238495
+      },
+      {
         "token": ",",
-        "probability": 0.40217068791389465
-      },
-      {
-        "token": "",
-        "probability": 0.17364779114723206
-      },
-      {
-        "token": ".",
-        "probability": 0.1435467004776001
-      },
-      {
-        "token": "!",
-        "probability": 0.048236068338155746
-      },
-      {
-        "token": ":",
-        "probability": 0.04753681272268295
+        "probability": 0.017369326204061508
       }
     ]
   }

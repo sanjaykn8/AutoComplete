@@ -1,0 +1,132 @@
+[
+  {
+    "prompt": "Efficient data compression using lossless algorithms",
+    "completion": "Efficient data compression using lossless algorithms. I think we'll find out: ",
+    "top_suggestions": [
+      {
+        "token": ".",
+        "probability": 0.334725022315979
+      },
+      {
+        "token": ",",
+        "probability": 0.2045009434223175
+      },
+      {
+        "token": "",
+        "probability": 0.16154785454273224
+      },
+      {
+        "token": ":",
+        "probability": 0.061359699815511703
+      },
+      {
+        "token": "is",
+        "probability": 0.023622727021574974
+      }
+    ]
+  },
+  {
+    "prompt": "Cybersecurity measures require multi-factor authentication protocols ",
+    "completion": "Cybersecurity measures require multi-factor authentication protocols ",
+    "top_suggestions": [
+      {
+        "token": "<|endoftext|>",
+        "probability": 0.9993734955787659
+      },
+      {
+        "token": "",
+        "probability": 0.0003457691636867821
+      },
+      {
+        "token": "",
+        "probability": 4.3408381316112354e-05
+      },
+      {
+        "token": "",
+        "probability": 3.164197551086545e-05
+      },
+      {
+        "token": "And",
+        "probability": 9.582119673723355e-06
+      }
+    ]
+  },
+  {
+    "prompt": "Advanced materials analysis employs spectroscopic techniques",
+    "completion": "Advanced materials analysis employs spectroscopic techniques ",
+    "top_suggestions": [
+      {
+        "token": ",",
+        "probability": 0.32308682799339294
+      },
+      {
+        "token": ".",
+        "probability": 0.27430275082588196
+      },
+      {
+        "token": "",
+        "probability": 0.12304884940385818
+      },
+      {
+        "token": "to",
+        "probability": 0.05963432788848877
+      },
+      {
+        "token": ":",
+        "probability": 0.04901346191763878
+      }
+    ]
+  },
+  {
+    "prompt": "High-performance computing demands parallel processing architectures",
+    "completion": "High-performance computing demands parallel processing architectures, which is to be very met: ",
+    "top_suggestions": [
+      {
+        "token": ",",
+        "probability": 0.39588165283203125
+      },
+      {
+        "token": ".",
+        "probability": 0.3005041182041168
+      },
+      {
+        "token": ":",
+        "probability": 0.06922881305217743
+      },
+      {
+        "token": "",
+        "probability": 0.03912424296140671
+      },
+      {
+        "token": "and",
+        "probability": 0.030693745240569115
+      }
+    ]
+  },
+  {
+    "prompt": "Software reliability testing involves fault injection methodologies",
+    "completion": "Software reliability testing involves fault injection methodologies. ",
+    "top_suggestions": [
+      {
+        "token": ",",
+        "probability": 0.37308645248413086
+      },
+      {
+        "token": ".",
+        "probability": 0.2895442843437195
+      },
+      {
+        "token": "",
+        "probability": 0.08786449581384659
+      },
+      {
+        "token": ":",
+        "probability": 0.06370910257101059
+      },
+      {
+        "token": "and",
+        "probability": 0.050842754542827606
+      }
+    ]
+  }
+]
